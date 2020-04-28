@@ -180,11 +180,11 @@ public class project6 {
             System.out.println("Rate us on the scale of 5.\n 1.Very Bad\n2.Bad\n3.Neutral\n4.Good\n5.Very Good\n");
                      int input=object.nextInt();
                         if((input==1)||(input==2)){
-                        System.out.println("Sorry for not a good experience:( We shall give a better service next time\n");
+                        System.out.println("Sorry for the inconvenience:( We shall give a better service next time\n");
                         return;
                         } 
                         if((input==4)||(input==5)){
-                        System.out.println("We are glad!:) We shall give still a better service next time\n");
+                        System.out.println("We are glad!:) We shall work towards enhancing your experience next time\n");
                         return;
                         } 
                         if(input==3){
