@@ -9,7 +9,7 @@ import java.util.concurrent.Semaphore;
 import java.util.Scanner;
 
 
-public class project6 {
+public class reservation {
 	public static void main(String[] args) throws InterruptedException {
 		ArrayList<String> seatsinfo = new ArrayList<String>();
 		seatsinfo.add("A1");
